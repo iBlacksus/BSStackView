@@ -1,0 +1,7 @@
+use_frameworks!
+
+target 'BSStackView_Example' do
+  pod 'BSStackView', :path => '../'
+    
+  end
+end
