@@ -8,4 +8,6 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'https://github.com/iBlacksus/BSStackView.git', :tag => '1.0.0' }
   spec.source_files = 'BSStackView/**/*'
   spec.framework    = 'SystemConfiguration'
+  spec.ios.deployment_target  = '8.0'
+  spec.ios.framework  = 'UIKit'
 end
