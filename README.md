@@ -1,6 +1,6 @@
 # BSStackView
 
-![Image](https://github.com/iBlacksus/BSStackView/blob/master/demo.gif)
+![Image](DemoResources/demo.gif)
 
 BSStackView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
