@@ -1,6 +1,6 @@
 # BSStackView
 
-![](https://github.com/iBlacksus/BSStackView/blob/master/demo.gif)
+![Image](https://github.com/iBlacksus/BSStackView/blob/master/demo.gif)
 
 BSStackView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -15,8 +15,7 @@ or install manually by downloading the files from GitHub and then use
 
 ## Usage
 
-######To run the example project, clone the repo, and run `pod install` from the Example directory first.
--
+## To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 Add the below reference to the @interface method in the header file(.h)
 ```ObjC
